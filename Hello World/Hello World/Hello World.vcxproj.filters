@@ -18,13 +18,16 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main_O.c">
+    <ClCompile Include="main_Function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main_V.c">
+    <ClCompile Include="main_Operator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main_F.c">
+    <ClCompile Include="main_Value.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main_If.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
