@@ -1,3 +1,4 @@
+// Function
 #include <stdio.h> // 표준 라이브러리 포함 , 함수들을 사용할수 있게
 
 // 시작점 main

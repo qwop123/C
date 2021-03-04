@@ -1,3 +1,4 @@
+// Operator
 // 무언가를 출력하기위해서 미리 만들어진 함수를 알려주는것
 #include <stdio.h>
 

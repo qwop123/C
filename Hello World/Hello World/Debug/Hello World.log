@@ -1,2 +1,9 @@
-﻿  main_O.c
+﻿  main_V.c
+C:\Unity_study\C\Hello World\Hello World\main_V.c(31,5): warning C4091: ' ': 변수를 선언하지 않으면 'int' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(32,6): warning C4091: ' ': 변수를 선언하지 않으면 'char' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(33,7): warning C4091: ' ': 변수를 선언하지 않으면 'float' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(34,7): warning C4091: ' ': 변수를 선언하지 않으면 'short' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(35,8): warning C4091: ' ': 변수를 선언하지 않으면 'double' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(36,6): warning C4091: ' ': 변수를 선언하지 않으면 'long' 왼쪽은 무시됩니다.
+C:\Unity_study\C\Hello World\Hello World\main_V.c(66,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
   Hello World.vcxproj -> C:\Unity_study\C\Hello World\Debug\Hello World.exe
