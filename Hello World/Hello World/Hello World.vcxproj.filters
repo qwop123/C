@@ -21,5 +21,8 @@
     <ClCompile Include="main_f.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="main_O.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
